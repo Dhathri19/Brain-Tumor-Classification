@@ -27,7 +27,7 @@ Deep learning models used:-
 1. VGG-16
 2. DENSENet
 
-Testing data: 70%
+Testing data: 70%,
 Training data: 30%
 
 ## Steps to run it: 
